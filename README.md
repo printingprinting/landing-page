@@ -1,5 +1,5 @@
 # landing-page
-This is my irst page with flexbox.
+This is my first page with flexbox.
 
 This project is for me to practice and learn more about flexbox.
 
